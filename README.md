@@ -7,3 +7,5 @@ py -3.12 -m venv .venv312
 .venv312\Scripts\activate
 pip install -r requirements.txt
 ```
+О проекте:
+Работа с данными в csv и parquet файлах, формирование датасета и обучение модели, предсказывающей увольнения
